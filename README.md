@@ -79,7 +79,8 @@ start_server()
 
 
 ## Server:
-![image](https://github.com/AasrithSairam/3b_CHAT_USING_TCP_SOCKETS/assets/139331438/78bfdf26-1222-4aba-beca-a74736cc86a2)
+![image](https://github.com/AasrithSairam/3b_CHAT_USING_TCP_SOCKETS/assets/139331438/81792a0b-0317-40fc-92e2-dacc522ac11d)
+
 
 
 ## RESULT
